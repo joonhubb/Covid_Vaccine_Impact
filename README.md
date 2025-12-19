@@ -1,15 +1,20 @@
-# Vaccine Impact Analysis
+# COVID Impact Analysis 📊
 
-This project analyzes the impact of vaccination on death rates across
-different age groups and regions using real-world data.
+A data-driven project analyzing COVID-19 death rates, vaccination trends, and key demographic indicators using datasets from Our World in Data (OWID).
 
-## Objectives
-- Analyze death rate trends
-- Study vaccination coverage
-- Identify most affected age groups and regions
+## Features
 
-## Tech Stack
-- Python
-- Pandas
-- Scikit-learn
-- Jupyter 
+- In-depth analysis of COVID-19 death rates
+- Exploration of global and regional vaccination trends
+- Study of demographic factors influencing pandemic outcomes
+- Clean and reproducible Jupyter notebooks
+- Visualizations to support findings and insights
+
+## Data Source
+
+- [Our World in Data - COVID-19 Dataset](https://www.kaggle.com/datasets/bcgvaccine/hackathon)
+
+## Contributing
+
+Contributions, issues, and suggestions are welcome!  
+Feel free to open a pull request, raise an issue.
